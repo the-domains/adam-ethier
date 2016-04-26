@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Adam Ethier]]></title>
-        <description><![CDATA[Adam Ethier]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Adam's Site]]></title>
+        <description><![CDATA[Adam's Site]]></description>
+        <link>https://thegrid.ai/adam-ethier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 18:07:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 18:31:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adam-ethier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Telkwa Fire Rescue - Offical Telkwa Fire Rescue Website]]></title>
+            <description><![CDATA[<article><h1>Telkwa Fire Rescue - Offical Telkwa Fire Rescue Website</h1><p>Hey All, Long time no post, Wow, what a windy day yesterday. There were at one point 35 power outage reported in the Smithers/Telkwa area. So what do you do if you see a tree on the powerlines? What about if you see lines broken and sparking on the ground?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/25cb73eaf1a722db27a106f826c3d4b70ceadfe0.jpg"></article>]]></description>
+            <link>http://www.telkwafire.com/</link>
+            <guid isPermaLink="false">4ee52035-8ed7-449e-9216-d284f78a3b9d</guid>
+            <pubDate>Tue, 26 Apr 2016 18:31:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3763604a-0a99-4ee1-bc43-99d9faa19aa3.jpg">]]></description>
-            <link>undefinedwelcome-to-adams-grid/index.html</link>
+            <link>https://thegrid.ai/adam-ethier/welcome-to-adams-grid/index.html</link>
             <guid isPermaLink="false">3c7509e4-11ed-45cc-8966-1fd43edb0c0b</guid>
             <pubDate>Tue, 26 Apr 2016 18:06:45 GMT</pubDate>
         </item>
